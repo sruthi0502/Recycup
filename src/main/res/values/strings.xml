@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recycup</string>
+    <string name="password">password</string>
+    <string name="username">Username</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Email">Email</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Already_have_an_account">Already have an account?</string>
+    <string name="Signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="Login" />
+    <string name="Forgot_Password">Forgot Password?</string>
+</resources>
